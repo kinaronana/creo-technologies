@@ -1,0 +1,28 @@
+{
+  "services": {
+    "website-development": {
+      "amount": "",
+      "currency": "KES",
+      "billing": "",
+      "note": "Contact us for pricing"
+    },
+    "website-maintenance": {
+      "amount": "",
+      "currency": "KES",
+      "billing": "",
+      "note": "Contact us for pricing"
+    },
+    "security-systems": {
+      "amount": "",
+      "currency": "KES",
+      "billing": "",
+      "note": "Contact us for pricing"
+    },
+    "ai-automation": {
+      "amount": "",
+      "currency": "KES",
+      "billing": "",
+      "note": "Contact us for pricing"
+    }
+  }
+}
